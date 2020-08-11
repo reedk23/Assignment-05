@@ -81,7 +81,7 @@ read_csv("./output/GFI_daily_deaths_by_date.csv") %>%
 Looking at the graph Italy deaths began before Germany and France, and the death rised very fast.Germany total death was lower than Italy and France. Even though France began a little after Italy the total death peaked the highest. In the beginning and late April the total death began to come decrease.
 
 
-## Reference
+## Reference1
 
 China Data Lab, 2020, "Countries-Deaths.tab", World COVID-19 Daily Cases with Basemap, https://doi.org/10.7910/DVN/L20LOT/FZLQRQ, Harvard Dataverse, V22, UNF:6:AntG1aQ3uPjWCuJZ5P2uEA== [fileUNF]
 
